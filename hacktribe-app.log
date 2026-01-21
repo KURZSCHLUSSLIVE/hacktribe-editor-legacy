@@ -1,0 +1,21 @@
+DEBUG: Initialising App
+DEBUG: Initialising Backend
+DEBUG: Initialising GUI
+DEBUG: Display welcome message
+INFO: Hacktribe Editor
+
+INFO: https://github.com/bangcorrupt/hacktribe
+
+DEBUG: Apply firmware patch
+ERROR: File not found: hacktribe\SYSTEM.VSB
+WARNING: Source file not found
+
+DEBUG: Apply firmware patch
+INFO: Electribe 2 Sampler firmware version 2.02 found.
+
+INFO: Applying patch...
+INFO: Modifying header...
+INFO: Checking hash...
+
+INFO: Saving patched firmware to D:\KORG\electribe sampler\System\SYSTEM.VSB
+
