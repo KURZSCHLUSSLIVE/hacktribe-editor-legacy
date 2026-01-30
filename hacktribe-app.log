@@ -11,11 +11,18 @@ ERROR: File not found: hacktribe\SYSTEM.VSB
 WARNING: Source file not found
 
 DEBUG: Apply firmware patch
-INFO: Electribe 2 Sampler firmware version 2.02 found.
+ERROR: File not found: hacktribe\SYSTEM.VSB
+WARNING: Source file not found
 
-INFO: Applying patch...
-INFO: Modifying header...
-INFO: Checking hash...
+DEBUG: Apply firmware patch
+ERROR: File not found: hacktribe\SYSTEM.VSB
+WARNING: Source file not found
 
-INFO: Saving patched firmware to D:\KORG\electribe sampler\System\SYSTEM.VSB
+DEBUG: Apply firmware patch
+ERROR: File not found: hacktribe\SYSTEM.VSB
+WARNING: Source file not found
+
+DEBUG: Apply firmware patch
+ERROR: File not found: hacktribe\SYSTEM.VSB
+WARNING: Source file not found
 
