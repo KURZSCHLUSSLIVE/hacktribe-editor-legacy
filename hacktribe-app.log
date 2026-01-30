@@ -7,22 +7,90 @@ INFO: Hacktribe Editor
 INFO: https://github.com/bangcorrupt/hacktribe
 
 DEBUG: Apply firmware patch
-ERROR: File not found: hacktribe\SYSTEM.VSB
-WARNING: Source file not found
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
 
 DEBUG: Apply firmware patch
-ERROR: File not found: hacktribe\SYSTEM.VSB
-WARNING: Source file not found
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
 
 DEBUG: Apply firmware patch
-ERROR: File not found: hacktribe\SYSTEM.VSB
-WARNING: Source file not found
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
 
 DEBUG: Apply firmware patch
-ERROR: File not found: hacktribe\SYSTEM.VSB
-WARNING: Source file not found
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
 
 DEBUG: Apply firmware patch
-ERROR: File not found: hacktribe\SYSTEM.VSB
-WARNING: Source file not found
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
 
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+ERROR: Incorrect source file.
+WARNING: Electribe 2 Sampler firmware version 2.02 only.
+
+DEBUG: Apply firmware patch
+INFO: Electribe 2 Sampler firmware version 2.02 found.
+
+INFO: Applying patch...
